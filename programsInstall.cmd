@@ -23,6 +23,12 @@ C:\users\WDAGUtilityAccount\Downloads\Git-2.30.0.2-64-bit.exe /quiet /S /verysil
 REM idm
 curl -L "https://mirror2.internetdownloadmanager.com/idman638build16.exe" --output C:\users\WDAGUtilityAccount\Downloads\idm.exe
 C:\users\WDAGUtilityAccount\Downloads\idm.exe  /skipdlgs /quiet /S /verysilent /suppressmsgboxes
+
+REM 7 zip
+curl -L "https://www.7-zip.org/a/7z1900.exe" --output C:\users\WDAGUtilityAccount\Downloads\7-zip.exe
+C:\users\WDAGUtilityAccount\Downloads\7-zip.exe  /S /verysilent /suppressmsgboxes
+
 REM filezilla
 curl -L "https://download.filezilla-project.org/client/FileZilla_3.52.2_win64-setup.exe" --output C:\users\WDAGUtilityAccount\Downloads\FileZilla_3.52.2_win64-setup.exe
 C:\users\WDAGUtilityAccount\Downloads\FileZilla_3.52.2_win64-setup.exe /quiet /S /verysilent /suppressmsgboxes
+
