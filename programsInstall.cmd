@@ -15,7 +15,7 @@ REM nodejs
 curl -L "https://nodejs.org/dist/v14.15.4/node-v14.15.4-x64.msi" --output C:\users\WDAGUtilityAccount\Downloads\node-v14.15.4-x64.msi
 C:\users\WDAGUtilityAccount\Downloads\node-v14.15.4-x64.msi /quiet 
 REM github Downloads
-curl -L "https://Downloads.githubusercontent.com/releases/2.6.3-51b58c36/GitHubDesktopSetup.exe" --output C:\users\WDAGUtilityAccount\Downloads\GitHubDesktopSetup.exe
+curl -L "https://desktop.githubusercontent.com/releases/2.6.3-51b58c36/GitHubDesktopSetup.exe" --output C:\users\WDAGUtilityAccount\Downloads\GitHubDesktopSetup.exe
 C:\users\WDAGUtilityAccount\Downloads\GitHubDesktopSetup.exe /quiet /S /verysilent /suppressmsgboxes
 REM git
 curl -L "https://github.com/git-for-windows/git/releases/download/v2.30.0.windows.2/Git-2.30.0.2-64-bit.exe" --output C:\users\WDAGUtilityAccount\Downloads\Git-2.30.0.2-64-bit.exe
