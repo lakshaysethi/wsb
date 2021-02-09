@@ -22,7 +22,7 @@ curl -L "https://github.com/git-for-windows/git/releases/download/v2.30.0.window
 C:\users\WDAGUtilityAccount\Downloads\Git-2.30.0.2-64-bit.exe /quiet /S /verysilent /suppressmsgboxes
 REM idm
 curl -L "https://mirror2.internetdownloadmanager.com/idman638build16.exe" --output C:\users\WDAGUtilityAccount\Downloads\idm.exe
-C:\users\WDAGUtilityAccount\Downloads\idm.exe /quiet /S /verysilent /suppressmsgboxes
+C:\users\WDAGUtilityAccount\Downloads\idm.exe  /skipdlgs /quiet /S /verysilent /suppressmsgboxes
 REM filezilla
 curl -L "https://download.filezilla-project.org/client/FileZilla_3.52.2_win64-setup.exe" --output C:\users\WDAGUtilityAccount\Downloads\FileZilla_3.52.2_win64-setup.exe
 C:\users\WDAGUtilityAccount\Downloads\FileZilla_3.52.2_win64-setup.exe /quiet /S /verysilent /suppressmsgboxes
