@@ -10,7 +10,7 @@
     </MappedFolder>
   </MappedFolders>
   <LogonCommand>
-    <Command>C:\Users\WDAGUtilityAccount\Desktop\wsb\programsInstall.cmd</Command>
+    <Command>C:\Users\WDAGUtilityAccount\Desktop\wsb\devInsatller.cmd</Command>
   </LogonCommand>
 </Configuration>
 
