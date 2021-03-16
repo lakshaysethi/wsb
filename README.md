@@ -1,2 +1,2 @@
 # wsb
-scripts for windows 
+scripts for windows if running as main 
