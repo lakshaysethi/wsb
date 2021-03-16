@@ -1,3 +1,5 @@
+REM you must edit this script before running it!
+
 mkdir C:\downloaded_by_script\
 REM  Visual Studio Code
 curl -L "https://update.code.visualstudio.com/latest/win32-x64-user/stable" --output C:\downloaded_by_script\vscode.exe
@@ -45,3 +47,6 @@ REM filezilla
 
 curl -L "https://download.filezilla-project.org/client/FileZilla_3.52.2_win64-setup.exe" --output C:\downloaded_by_script\FileZilla_3.52.2_win64-setup.exe
 C:\downloaded_by_script\FileZilla_3.52.2_win64-setup.exe /quiet /S /verysilent /suppressmsgboxes
+
+
+rmdir /s /q C:\downloaded_by_script\
