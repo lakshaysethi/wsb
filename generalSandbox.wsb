@@ -1,5 +1,6 @@
 <Configuration>
   <MappedFolders>
+  <MappedFolder>
       <HostFolder>C:\Users\Public\Downloads\wsb</HostFolder>
       <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\wsb</SandboxFolder>
       <ReadOnly>false</ReadOnly>
