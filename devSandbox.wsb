@@ -1,13 +1,10 @@
 <Configuration>
   <MappedFolders>
     <MappedFolder>
-      <HostFolder>C:\Users\lakshay\Desktop\wsb</HostFolder>
-      <ReadOnly>true</ReadOnly>
+     <HostFolder>C:\Users\Public\Downloads\wsb</HostFolder>
+      <ReadOnly>false</ReadOnly>
     </MappedFolder>
-    <MappedFolder>
-      <HostFolder>C:\Users\lakshay\Desktop\lakshay_s_projects</HostFolder>
-      <ReadOnly>true</ReadOnly>
-    </MappedFolder>
+ 
   </MappedFolders>
   <LogonCommand>
     <Command>C:\Users\WDAGUtilityAccount\Desktop\wsb\devInsatller.cmd</Command>
