@@ -4,8 +4,8 @@
      <HostFolder>C:\Users\Public\Downloads\wsb</HostFolder>
       <ReadOnly>false</ReadOnly>
     </MappedFolder>
- 
   </MappedFolders>
+  
   <LogonCommand>
     <Command>C:\Users\WDAGUtilityAccount\Desktop\wsb\devInsatller.cmd</Command>
   </LogonCommand>

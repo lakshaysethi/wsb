@@ -2,13 +2,14 @@ REM  Visual Studio Code
 curl -L "https://update.code.visualstudio.com/latest/win32-x64-user/stable" --output C:\users\WDAGUtilityAccount\Downloads\vscode.exe
 C:\users\WDAGUtilityAccount\Downloads\vscode.exe /verysilent /suppressmsgboxes
 
+REM chrome
+copy "C:\Users\WDAGUtilityAccount\Desktop\wsb\ChromeSetup.exe" "C:\users\WDAGUtilityAccount\Downloads\"
+C:\users\WDAGUtilityAccount\Downloads\ChromeSetup.exe 
+
+
+
 REM curl -L "down-link" --output C:\users\WDAGUtilityAccount\Downloads\prog.exe
 REM C:\users\WDAGUtilityAccount\Downloads\prog.exe /verysilent /suppressmsgboxes
-
-REM firefox
-
-curl -L "https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US" --output C:\users\WDAGUtilityAccount\Downloads\firefox.exe
-C:\users\WDAGUtilityAccount\Downloads\firefox.exe /quiet /S /verysilent /suppressmsgboxes
 
 REM github Desktop
 
@@ -44,4 +45,10 @@ REM filezilla
 
 curl -L "https://download.filezilla-project.org/client/FileZilla_3.52.2_win64-setup.exe" --output C:\users\WDAGUtilityAccount\Downloads\FileZilla_3.52.2_win64-setup.exe
 C:\users\WDAGUtilityAccount\Downloads\FileZilla_3.52.2_win64-setup.exe /quiet /S /verysilent /suppressmsgboxes
+
+
+REM firefox
+
+curl -L "https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US" --output C:\users\WDAGUtilityAccount\Downloads\firefox.exe
+C:\users\WDAGUtilityAccount\Downloads\firefox.exe /quiet /S /verysilent /suppressmsgboxes
 
