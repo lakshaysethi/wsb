@@ -1,0 +1,13 @@
+<Configuration>
+  <Networking>Enabled</Networking>
+  <MappedFolders>
+    <MappedFolder> 
+        <HostFolder>C:\Users\LakshayS\Desktop\sandbox</HostFolder> 
+        <ReadOnly>true</ReadOnly> 
+    </MappedFolder>
+  </MappedFolders>
+  <AudioInput>Disable</AudioInput>
+  <VideoInput>Disable</VideoInput>
+  <ProtectedClient>Enable</ProtectedClient>
+  <MemoryInMB>16384</MemoryInMB>
+</Configuration>

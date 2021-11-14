@@ -1,0 +1,1 @@
+powershell choco install vscode python  github-desktop git nodejs -y
